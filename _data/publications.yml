@@ -2,8 +2,8 @@ main:
 
   - title: "Impossibility Results for Post-Compromise Security in Real-World Communication Systems"
     authors:	Cas Cremers, Niklas Medinger, <strong>Aurora Naska</strong>
-    conference_short: ePrint
-    conference: IACR Cryptol. ePrint Arch, 2024.
+    conference_short: S&P 25
+    conference: IEEE Symposium on Security and Privacy, 2025.
     pdf: https://eprint.iacr.org/2024/1886
     code: https://github.com/pcsanalysiseprint/pcsanalysiseprint
     image: ./assets/img/pub5.png

@@ -10,8 +10,8 @@ main:
 
   - title: "Breaking and Provably Restoring Authentication: A Formal Analysis of SPDM 1.2 including Cross-Protocol Attacks"
     authors: Cas Cremers, Alexander Dax, <strong>Aurora Naska</strong>
-    conference_short: ePrint
-    conference: IACR Cryptol. ePrint Arch, 2024.
+    conference_short: CCS 25
+    conference: ACM Conference on Computer and Communications Security, 2025.
     pdf: https://eprint.iacr.org/2024/2047
     code: https://github.com/ComprehensiveSPDM/TamarinSPDMAnalysis
     image: ./assets/img/pub4.png

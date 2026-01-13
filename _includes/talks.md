@@ -3,10 +3,16 @@
 
 <h4 style="margin:0 10px 0;">Invited Talks:</h4>
 <ul style="margin:0 0 10px;">
-  <li><autocolor>"Impossibility Results for PCS in Real-World Systems", Prosecco, Inria Paris, 2025</autocolor></li>
-  <li><autocolor>"Formal Analysis of Session-Handling in Secure Messaging", Microsoft Research, 2024</autocolor></li>
-  <li><autocolor>"Formal Analysis of Session-Handling in Secure Messaging", Radboud University, 2024</autocolor></li>
-  <li><autocolor>"Usage of Formal Methods in Analyzing Real-World Systems", Cornell University, 2023</autocolor></li>
+  <li><autocolor>"Impossibility Results for PCS in Real-World Systems"</autocolor></li>
+      <ul style="margin:0 0 10px;">
+      <li><autocolor>Prosecco, Inria Paris, 2025</autocolor></li>
+    </ul>
+  <li><autocolor>"Formal Analysis of Session-Handling in Secure Messaging"</autocolor></li>
+    <ul style="margin:0 0 10px;">
+      <li><autocolor>Microsoft Research, 2024</autocolor></li>
+     <li><autocolor>Radboud University, 2024</autocolor></li>
+     <li><autocolor>Cornell University, 2023</autocolor></li>
+    </ul>
 </ul>
 
 <h4 style="margin:0 10px 0;">Teaching:</h4>

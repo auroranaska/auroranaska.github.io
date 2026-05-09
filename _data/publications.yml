@@ -1,7 +1,7 @@
 main:
 
   - title: "Impossibility Results for Post-Compromise Security in Real-World Communication Systems"
-    authors:	Cas Cremers, Niklas Medinger, <strong>Aurora Naska</strong>
+    authors:	Cas Cremers, Niklas Medinger, Aurora Naska
     conference_short: S&P 25
     conference: IEEE Symposium on Security and Privacy, 2025.
     pdf: https://eprint.iacr.org/2024/1886
@@ -9,7 +9,7 @@ main:
     image: ./assets/img/pub5.png
 
   - title: "Breaking and Provably Restoring Authentication: A Formal Analysis of SPDM 1.2 including Cross-Protocol Attacks"
-    authors: Cas Cremers, Alexander Dax, <strong>Aurora Naska</strong>
+    authors: Cas Cremers, Alexander Dax, Aurora Naska
     conference_short: CCS 25
     conference: ACM Conference on Computer and Communications Security, 2025.
     pdf: https://eprint.iacr.org/2024/2047
@@ -17,7 +17,7 @@ main:
     image: ./assets/img/pub4.png
 
   - title: "Formal Analysis of Session-Handling in Secure Messaging: Lifting Security from Sessions to Conversations"
-    authors: Cas Cremers, Charlie Jacomme, <strong>Aurora Naska</strong>
+    authors: Cas Cremers, Charlie Jacomme, Aurora Naska
     conference_short: USENIX 23
     conference: USENIX Security Symposium, 2023.
     pdf: https://eprint.iacr.org/2022/1710
@@ -25,7 +25,7 @@ main:
     image: ./assets/img/pub3.png
 
   - title: "Formal Analysis of SPDM: Security Protocol and Data Model version 1.2"
-    authors: Cas Cremers, Alexander Dax, <strong>Aurora Naska</strong>
+    authors: Cas Cremers, Alexander Dax, Aurora Naska
     conference_short: USENIX 23
     conference: USENIX Security Symposium, 2023.
     pdf: https://eprint.iacr.org/2022/1724
@@ -33,7 +33,7 @@ main:
     image: ./assets/img/pub2.png
 
   - title: "Clone Detection in Secure Messaging: Improving Post-Compromise Security in Practice"
-    authors: Cas Cremers, Jaiden Fairoze, Benjamin Kiesl, <strong>Aurora Naska</strong>
+    authors: Cas Cremers, Jaiden Fairoze, Benjamin Kiesl, Aurora Naska
     conference_short: CCS 20
     conference: ACM Conference on Computer and Communications Security, 2020.
     pdf: https://dl.acm.org/doi/10.1145/3372297.3423354

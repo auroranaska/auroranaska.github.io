@@ -1,5 +1,12 @@
 main:
 
+  - title: "From Specs to Apps: Verifying and Monitoring Models of Signal and WhatsApp"
+    authors:	Moustafa Said, Aurora Naska, Kevin Morio, Robert K&uuml;nnemann
+    conference_short: CCS 26
+    conference:  ACM Conference on Computer and Communications Security, 2026.
+    pdf: https://eprint.iacr.org/2026/1979
+    image: ./assets/img/pub6.png
+
   - title: "Impossibility Results for Post-Compromise Security in Real-World Communication Systems"
     authors:	Cas Cremers, Niklas Medinger, Aurora Naska
     conference_short: S&P 25
